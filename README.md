@@ -1,4 +1,4 @@
-**Illini Impact — Campus Clean-Up App (Demo Prototype)**
+**Illini Impact: Campus Clean-Up App (Demo Prototype)**
 
 Illini Impact is a front-end prototype of a sustainability-focused campus app designed to engage students in community clean-up efforts through QR-based trash logging, team leaderboards, and impact tracking.
 
@@ -49,6 +49,5 @@ Secure backend validation for QR scans
 
 Access control and GDPR-compliant data policies
 
-🏁 Status
+🏁 Current Status: Prototype — Front-end only, non-persistent demo build (For class Presentation Purposes)
 
-🚧 Prototype — Front-end only, non-persistent demo build.
