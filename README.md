@@ -28,12 +28,17 @@ Static sample data for demonstration purposes
 - Tailwind CSS for fast, responsive styling
 - PostCSS + Autoprefixer for build-time transformations
 
-Running Locally
-git clone https://github.com/<your-username>/illini-impact.git
-cd illini-impact
-npm install
-npm run dev
-Then open http://localhost:5173 in your browser.
+Running Locally:
+
+- git clone https://github.com/<your-username>/illini-impact.git
+
+- cd illini-impact
+
+- npm install
+
+- npm run dev
+
+- Then open local host in your browser.
 
 **Purpose**
 
@@ -50,4 +55,5 @@ Secure backend validation for QR scans
 Access control and GDPR-compliant data policies
 
 🏁 Current Status: Prototype — Front-end only, non-persistent demo build (For class Presentation Purposes)
+
 
